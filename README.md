@@ -12,4 +12,3 @@ Features a simple chatbot that responds with predefined messages for an interact
 - ✅ Message persistence via localStorage  
 - ✅ Timestamps for every message  
 - ✅ Simple chatbot with predefined replies  
-- ✅ Responsive design for all devices 
